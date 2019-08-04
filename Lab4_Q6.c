@@ -31,7 +31,8 @@ int main() {
         }
     }
 
-/*Arranging the table according to Burst time,
+/*
+Arranging the table according to Burst time,
 Execution time and Arrival Time
 Arrival time <= Execution time
 */
