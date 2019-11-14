@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 # check for perfect number using while loop
 
 echo "Enter a number"

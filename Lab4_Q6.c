@@ -1,4 +1,4 @@
-// Non-preemptive SJF process scheduling algo to find Avg. WT and Avg. TAT of each process.
+// Non-preemptive SJF process scheduling algo to find Avg. WT and Avg. TAT of each process
 
 #include<stdio.h>
 

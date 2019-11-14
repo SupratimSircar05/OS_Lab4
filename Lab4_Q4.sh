@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 # print '*' pyramid pattern upto 5 steps to the right only
 
 for r in {1..5}

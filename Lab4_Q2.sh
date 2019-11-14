@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# display prime numbers b/w 200 to 300
+
 echo "All prime numbers between 200 to 300 are :"
 
 n=200
